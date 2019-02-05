@@ -1,0 +1,130 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+div{
+  overflow: visible;
+  position: relative;
+}
+.cap{
+  width: 500px;
+  height: 500px;
+  background-color: rgb(255, 193, 6);
+  margin: 0 auto;
+  border-radius: 100px 100px 200px 200px;
+  position: relative;
+  top:-510px;
+  padding-top: 100px;
+}
+
+.pel{
+  height: 600px;
+  width: 600px;
+  background-color: green;
+  border-radius: 100px 50px 0px 0px;
+  margin: 0 auto;
+}
+
+.ulls{
+  height: 200px;
+}
+
+.ceies{
+
+}
+
+.cella{
+  width: 200px;
+  height: 20px;
+  background-color: ;
+  margin: 10px 25px;
+  border-top: solid 20px #000;
+  border-radius: 50%;
+
+
+}
+
+.esquerre{
+  float: left;
+}
+
+.dreta{
+  float: right;
+}
+
+.parpelles {
+
+}
+
+.parpella {
+  width: 150px;
+  height: 150px;
+  background-color: #FFF;
+  margin: 0 45px;
+  border-radius: 50%;
+  transform: scaleY(0.6);
+}
+.pestanyes{
+  position: relative;
+  top: -125px;
+}
+.pestanya{
+  height: 70px;
+  width: 150px;
+  background-color:;
+  margin: 0 45px;
+  border-top: solid 15px #000;
+  border-bottom: solid 15px #000;
+  border-radius: 50%;
+}
+
+.iris{
+  position: relative;
+  top: -208px;
+}
+.irisa{
+  width: 65px;
+  height: 65px;
+  background-color: #038;
+  border-radius: 50px;
+  margin: 0 90px;
+
+}
+.pupila{
+  position: relative;
+  top: -248px;
+}
+.pupile{
+  width: 20px;
+  height: 20px;
+  border-radius: 50px;
+  background-color: black;
+  margin: 0 112px;
+}
+.urelles{
+  position: relative;
+  top: -280px;
+  left:-50px;
+  width: 600px;
+}
+.urella{
+  width: 50px;
+  height: 100px;
+  background-color: red;
+  border-radius:10px;
+}
+.nas{
+  width: 50px;
+  height: 100px;
+  background-color: rgb(236, 178, 167);
+  margin: 20px auto;
+
+
+}
+.boca{
+  width: 100px;
+  height: 50px;
+  background-color: rgb(236, 178, 167);
+  margin: 20px auto;
+
+}
